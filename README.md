@@ -22,7 +22,8 @@ Power BI Dashboards Include:
 - Hourly breakdown of completed and cancelled rides – identifying peak times and cancellation patterns
 
 [To go to this interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjQ4MTUzNmUtNWM0Zi00Nzc0LWIzMTEtODQwMGZhYWJlOGI4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-<img width="1304" height="724" alt="image" src="https://github.com/user-attachments/assets/0ba65ee9-9776-4ff8-a81d-0b86c517bc3b" />
+
+(dashboard_metrocar.png)
 
 
 ## 📊 Key Insights  
