@@ -1,4 +1,4 @@
-# 🚗 Metrocar Funnel Analysis
+# 🚗 Metrocar Data Analysis
 
 ## 📌 Project Overview  
 This project analyzes user behavior on the Metrocar platform to uncover patterns and improve user experience. It focuses on:
