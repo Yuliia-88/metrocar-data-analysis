@@ -23,7 +23,7 @@ Power BI Dashboards Include:
 
 [To go to this interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjQ4MTUzNmUtNWM0Zi00Nzc0LWIzMTEtODQwMGZhYWJlOGI4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-(dashboard_metrocar.png)
+[](dashboard_metrocar.png)
 
 
 ## 📊 Key Insights  
