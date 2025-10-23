@@ -8,7 +8,7 @@ This project analyzes user behavior on the Metrocar platform to uncover patterns
 
 ## 🗂️ Data Sources
 - PostgreSQL database - the primary source containing raw user and trip data, accessed via structured SQL queries
-- Exported query results (CSV format) - selected datasets were exported as CSV files for further analysis in Excel and Power BI
+- Exported query results (CSV format) - selected datasets were exported as CSV files for further analysis in Google Sheets and Power BI
 - data/ folder - contains all exported CSV files used in this project, including user profiles, trip logs, event data, and calculated metrics such as waiting times
 
 ## 🧰 Tools Used  
