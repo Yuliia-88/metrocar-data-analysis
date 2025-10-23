@@ -30,6 +30,7 @@ Google Sheets analysis include:
 - [PDF and CDF functions of waiting time](https://docs.google.com/spreadsheets/d/1yQ5enABx7nCfaYtZgPFU126j8SZRcWcR3A4grMDZcns/edit?usp=sharing)
 - [Analyzing user behavior between ride request confirmation and cancellation](https://docs.google.com/spreadsheets/d/1ZlSuZlLCLMSRTIdb-LmIihEyuSwh08x9MyQWGBJe4PU/edit?usp=sharing)
 
+[View SQL queries in Notion](https://www.notion.so/MidTerm-Project-Metrocar-Data-Analysis-205cda259e6580949757cabe26150b78?source=copy_link)
 
 ## 📊 Key Insights  
 - Identified drop-off points in the user funnel  
