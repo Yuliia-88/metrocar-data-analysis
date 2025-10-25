@@ -37,7 +37,7 @@ Google Sheets analysis include:
 - Mapped behavioral trends across different age groups  
 - Highlighted platform features with low engagement
 
-## 🖋️ Автор
+## 🖋️ Author
 
 👩‍💻 Yuliia Klymenko
 
