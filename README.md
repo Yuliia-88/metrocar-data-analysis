@@ -11,8 +11,14 @@ This project analyzes user behavior on the Metrocar platform to uncover patterns
 - Exported query results (CSV format) - selected datasets were exported as CSV files for further analysis in Google Sheets and Power BI
 - data/ folder - contains all exported CSV files used in this project, including user profiles, trip logs, event data, and calculated metrics such as waiting times
 
-## 🧰 Tools Used  
-- **SQL** - for querying and preprocessing the data
+## Database shema
+
+![](database_shema.png)
+
+## 🧰 Tools Used
+- **Docker** - for locally deploying the metrocar database in a containerized environment.
+- **DBeaver** - for visualizing the database structure, testing SQL queries, browsing data, and exporting results to CSV for further analysis
+- **SQL (PostgreSQL)** - for querying, aggregating and preprocessing the data
 - **Google Sheets** - for initial analysis, pivot tables, and building PDF and CDF functions of waiting time
 - **Power BI** - for interactive dashboards and visual data storytelling
 
